@@ -28,9 +28,9 @@ The solution streamlines the IT procurement lifecycle by automatically creating 
 
 | Role              | Details         |
 | :---------------- | :-------------- |
-| **Team Name**     | MY PROJECT      |
+| **Team Name**     | Byte Squad      |
 | **Team Member 1** | Gabrian J       |
-| **Team Member 2** | Chaandru E      |
+| **Team Member 2** | Chandru E      |
 | **Team Member 3** | Jetson Samuel S |
 
 ---
@@ -346,7 +346,7 @@ MY-PROJECT/
 
 ## 👨‍💻 Team
 
-**MY PROJECT**
+**Byte Squad**
 
 * **Gabrian J**
 * **Chaandru E**
